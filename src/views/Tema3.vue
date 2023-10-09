@@ -318,7 +318,7 @@ export default {
         titulo: 'Método de producción en gran masa o escala',
         texto:
           'En este método se elaboran grandes cantidades del producto, donde, generalmente, suelen tener bajos costos y alta productividad.',
-        imagen: require('@/assets/curso/temas/tema3/tema3-24.png'),
+        imagen: require('@/assets/curso/temas/tema3/tema3-29.png'),
       },
     ],
   }),

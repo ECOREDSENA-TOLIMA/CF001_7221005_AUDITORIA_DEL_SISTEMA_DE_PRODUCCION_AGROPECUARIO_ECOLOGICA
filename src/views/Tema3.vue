@@ -159,14 +159,14 @@
           .col-md-8
             p Quienes están encargados de obtener las materias primas para la elaboración del producto que ofertará la empresa.
           .col-md-4
-            img(src='@/assets/curso/temas/tema3/tema3-15.png', alt='')
+            img(src='@/assets/curso/temas/tema3/tema3-16.png', alt='')
       .tarjeta.tarjeta--azul.p-4(titulo="Personal de producción")
         h4 Personal de producción
         .row.justify-content-center.align-items-center 
           .col-md-8
             p Tendrán la función de transformar la materia prima en producto terminado.
           .col-md-4
-            img(src='@/assets/curso/temas/tema3/tema3-16.png', alt='')
+            img(src='@/assets/curso/temas/tema3/tema3-15.png', alt='')
       .tarjeta.tarjeta--azul.p-4(titulo="Personal operativo")
         h4 Personal operativo
         .row.justify-content-center.align-items-center 

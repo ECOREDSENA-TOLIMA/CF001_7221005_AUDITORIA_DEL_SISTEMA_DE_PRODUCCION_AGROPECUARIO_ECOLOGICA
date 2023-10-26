@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Generalidades de auditoría',
+    componenteFormativo: 'Generalidades de la auditoría',
     descripcionCurso:
       'En este componente formativo se desarrollarán temas referentes a los conceptos generales de: qué es una auditoría, qué es un auditor, aspectos relacionados con las unidades productivas, fuentes de información, normatividad para la producción primaria y el sello ecológico. Esta información le será útil para desarrollar y entender los procesos en una auditoría.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
@@ -202,7 +202,7 @@ export default {
       {
         icono: 'fas fa-download',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA_01_7221005.zip',
+        download: 'downloads/CFA_01_72210005.zip',
       },
       {
         icono: 'fas fa-download',

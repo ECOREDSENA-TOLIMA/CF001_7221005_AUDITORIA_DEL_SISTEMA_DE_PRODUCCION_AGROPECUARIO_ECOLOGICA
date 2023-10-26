@@ -1,1 +1,1 @@
-module.exports = 'Generalidades de auditoría'
+module.exports = 'Generalidades de la auditoría'

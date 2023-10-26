@@ -152,7 +152,7 @@
             tbody
               tr
                 th.text-center Auditoría financiera
-                td.p-2 Esta se encarga de revisar lo relacionado con las finanzas de la empresa como los registros de caja y estados de cuenta, implica un análisis a las solicitudes e inversiones con lo cual se busca que el dinero tenga un retorno. Este tipo de auditoría permite garantizar un control financiero para asegurar el manejo financiero de la organización.
+                td.p-2 Esta se encarga de revisar lo relacionado con las finanzas de la empresa como los registros de caja y estados de cuenta, implica un análisis a las solicitudes e inversiones con lo cual se busca que el dinero tenga un retorno. Este tipo de auditoría permite garantizar un control de las finanzas para asegurar el manejo financiero de la organización.
               tr
                 th.text-center Auditoría fiscal y tributaria
                 td.p-2 Esta permite garantizar la normativa dentro del marco legal colombiano para garantizar que la organización no está realizando algún delito.
@@ -388,7 +388,7 @@
                       i.lista-ul__vineta
                       | Analizar los datos.
 
-    p.mb-5(data-aos="fade-down") Como se mencionó anteriormente, la elección de los métodos dependerá, principalmente, del objetivo de la auditoría; sin embargo, se pueden aplicar los métodos a cualquier tipo de auditoría de los que se mencionan en a continuación. 
+    p.mb-5(data-aos="fade-down") Como se mencionó anteriormente, la elección de los métodos dependerá, principalmente, del objetivo de la auditoría; sin embargo, se pueden aplicar los métodos a cualquier tipo de auditoría de los que se mencionan en a continuación: 
 
     TabsA.color-acento-botones.mb-5(data-aos="fade-down-right")
       .tarjeta.tarjeta--azul.p-4(titulo="Conocimiento de la organización")

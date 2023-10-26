@@ -201,7 +201,7 @@
       h2 3.4 Métodos de producción
 
     p.mb-4(data-aos="fade-down") Los métodos de producción se refieren a las técnicas elegidas por el empresario para desarrollar su producto o servicio, teniendo en cuenta el bienestar de la empresa, así como del destinatario final del producto, bien o servicio que ofreció. 
-    p.mb-5(data-aos="fade-down") Existen diversas formas de abordar los métodos de producción según la actividad que desarrolle la empresa, así como se muestra a continuación.
+    p.mb-5(data-aos="fade-down") Existen diversas formas de abordar los métodos de producción según la actividad que desarrolle la empresa, así como se muestra a continuación:
 
     .tarjeta--container.row.mb-5(data-aos="fade-down")
       .col-md.tarjeta.color-primario.p-5
@@ -237,7 +237,7 @@
     #t_3_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.5 Recursos
 
-    p.mb-5(data-aos="fade-down") Las unidades productivas deben contar con unos recursos mínimos para su correcto funcionamiento; es decir, para lograr en su totalidad los objetivos propuestos y puedan llegar a ofertar su producto, bien o servicio; estos recursos se pueden revisar a continuación.
+    p.mb-5(data-aos="fade-down") Las unidades productivas deben contar con unos recursos mínimos para su correcto funcionamiento; es decir, para lograr en su totalidad los objetivos propuestos y puedan llegar a ofertar su producto, bien o servicio; estos recursos se pueden revisar a continuación:
     
     TabsA.color-acento-botones.mb-5(data-aos="fade-down-right")
       .tarjeta.tarjeta--azul.p-4(titulo="Económicos")

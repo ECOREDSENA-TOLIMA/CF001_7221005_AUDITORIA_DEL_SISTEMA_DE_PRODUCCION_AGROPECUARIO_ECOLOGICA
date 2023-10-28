@@ -231,7 +231,7 @@
     p.mb-5(data-aos="fade-down") Por otro lado, los objetivos de la empresa pueden ser por trabajo o pedido, por lote, producción en flujo, producción en línea, producción en gran masa o escala.
 
     .tarjeta.tarjeta--azul.p-4(data-aos="fade-down-right")
-      SlyderB.mb-5(:datos="datosSlyder")
+      SlyderB.ipad-b.mb-5(:datos="datosSlyder")
 
     Separador
     #t_3_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")

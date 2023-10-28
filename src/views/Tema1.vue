@@ -314,7 +314,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-11(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido.mb-1
-          p.titulo.pb-0.mb-0 #[b Tabla 4.] #[i Tipos de auditoría] 
+          p.titulo.pb-0.mb-0 #[b Tabla 4.] #[i Métodos de auditoría] 
         .tabla-b.color-acento-contenido
           table(style="min-width:auto")
             caption Nota. Tomada de ISO (2018).
